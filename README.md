@@ -4,7 +4,7 @@ A music synthesizer program that reads an XML file for input and generates outpu
 ## Details
 **Title of the musical selection:** Lasso
 
-**Duration:** 1 minute, 6 seconds
+**Duration:** 1 minute, 4 seconds
 
 **Format:** 44,100 Hz, 16-bit stero WAV
 
