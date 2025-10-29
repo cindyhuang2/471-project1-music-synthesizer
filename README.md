@@ -78,8 +78,8 @@ The drum synthesizer generates five distinct drum sounds from scratch using synt
 The effects component mixes audio streams from multiple instruments and applies audio processing. It simply passes audio currently.
 
 ## Files in Repository
-- `lasso.score` - XML score for final musical selection
-- `lasso.wav` - Final audio output
-- `drums.score` / `drums.wav` - Drum component demonstration
+- `Deliverables/lasso.score` - XML score for final musical selection
+- `Deliverables/lasso.wav` - Final audio output
+- `Deliverables/drums.score` / `Deliverables/drums.wav` - Drum component demonstration
 - `Synthie/` - Source code
 - `README.md` - This file. Includes details about the project
