@@ -3,9 +3,13 @@ A music synthesizer program that reads an XML file for input and generates outpu
 
 ## Details
 **Title of the musical selection:** Lasso
+
 **Duration:** 1 minute, 6 seconds
+
 **Format:** 44,100 Hz, 16-bit stero WAV
+
 **File:** `lasso.wav`
+
 **Note count:** 609
 
 *Note: Generative AI (ChatGPT) was used to assist with music composition.*
