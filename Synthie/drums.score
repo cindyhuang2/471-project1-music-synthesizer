@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+    <instrument instrument="DrumInstrument">
+    	<note measure="1" beat="1"   type="kick"   duration="0.5" velocity="0.95"/>
+    	<note measure="1" beat="2"   type="snare"  duration="0.5" velocity="0.88"/>
+    	<note measure="1" beat="3"   type="hihat"  duration="0.1" velocity="0.76"/>
+
+    	<note measure="2" beat="1" type="tom-lo"   duration="0.25" velocity="0.88" pitch="0"/>
+    	<note measure="2" beat="2" type="tom"   duration="0.25" velocity="0.88" pitch="0"/>
+    	<note measure="2" beat="3" type="tom-hi"   duration="0.25" velocity="0.88" pitch="0"/>
+
+    	<note measure="3" beat="1"   type="cymbal" duration="0.75" velocity="0.80"/>
+	
+<note measure="4" beat="1"   type="kick"   duration="0.5"  velocity="0.95"/>
+    <note measure="4" beat="2"   type="snare"  duration="0.5"  velocity="0.90"/>
+    <note measure="4" beat="3"   type="kick"   duration="0.5"  velocity="0.92"/>
+    <note measure="4" beat="4"   type="snare"  duration="0.5"  velocity="0.90"/>
+    <note measure="4" beat="1"   type="hihat"  duration="0.1"  velocity="0.78"/>
+    <note measure="4" beat="1.5" type="hihat"  duration="0.1"  velocity="0.78"/>
+    <note measure="4" beat="2"   type="hihat"  duration="0.1"  velocity="0.82"/>
+    <note measure="4" beat="2.5" type="hihat"  duration="0.1"  velocity="0.78"/>
+    <note measure="4" beat="3"   type="hihat"  duration="0.1"  velocity="0.78"/>
+    <note measure="4" beat="3.5" type="hihat"  duration="0.1"  velocity="0.78"/>
+    <note measure="4" beat="4.0" type="tom-hi" duration="0.25" velocity="0.88" pitch="2"/>
+    <note measure="4" beat="4.25" type="tom"   duration="0.25" velocity="0.88" pitch="0"/>
+    <note measure="4" beat="4.5" type="tom-lo" duration="0.25" velocity="0.92" pitch="-3"/>
+    <note measure="4" beat="4.75" type="tom"   duration="0.25" velocity="0.90" pitch="-2"/>
+    <note measure="4" beat="1"   type="cymbal" duration="1.0"  velocity="0.90"/>
+<note measure="5" beat="1"   type="kick"   duration="0.5" velocity="0.93"/>
+    <note measure="5" beat="2"   type="snare"  duration="0.5" velocity="0.90"/>
+    <note measure="5" beat="3"   type="kick"   duration="0.5" velocity="0.91"/>
+    <note measure="5" beat="4"   type="snare"  duration="0.5" velocity="0.90"/>
+    <note measure="5" beat="1"   type="hihat"  duration="0.1" velocity="0.75"/>
+    <note measure="5" beat="1.5" type="hihat"  duration="0.1" velocity="0.75"/>
+    <note measure="5" beat="2"   type="hihat"  duration="0.1" velocity="0.77"/>
+    <note measure="5" beat="2.5" type="hihat"  duration="0.1" velocity="0.75"/>
+    <note measure="5" beat="3"   type="hihat"  duration="0.1" velocity="0.75"/>
+    <note measure="5" beat="3.5" type="hihat"  duration="0.1" velocity="0.80"/>
+    <note measure="5" beat="4"   type="hihat"  duration="0.1" velocity="0.75"/>
+    <note measure="5" beat="4.5" type="hihat"  duration="0.1" velocity="0.75"/>
+    </instrument>
+</score>
